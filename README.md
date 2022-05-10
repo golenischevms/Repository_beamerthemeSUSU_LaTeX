@@ -8,6 +8,7 @@
 1)  "C:\texlive\2022\texmf-dist\tex\latex\beamer"
 2)  "C:\texlive\texmf-local\dvips\local"
 
+Если *.sty файл будет находиться в одной папке с Вашим *.tex файлов, LaTeX будет также его видеть.
 
 Находясь в папке textlive в поиске находим исполяемый файл texhash.exe и запускаем его. 
 
