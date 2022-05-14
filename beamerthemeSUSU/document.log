@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.3)  10 MAY 2022 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.3)  14 MAY 2022 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -669,7 +669,7 @@ Package: amsthm 2020/05/29 v2.20.6
 \beamer@dimb=\dimen291
 )
 (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemeSUSU.sty
+(./beamerthemeSUSU.sty
 (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
 (c:/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty))
 (c:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
@@ -1432,7 +1432,7 @@ Package rerunfilecheck Info: File `document.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  27587 strings out of 478305
- 515430 string characters out of 5849247
+ 515344 string characters out of 5849247
  812371 words of memory out of 5000000
  45180 multiletter control sequences out of 15000+600000
  476430 words of font info for 38 fonts, out of 8000000 for 9000
@@ -1446,7 +1446,7 @@ e1/public/cm-super/sfss1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/
 cm-super/sfss1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/s
 fss1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfss2488.pf
 b>
-Output written on document.pdf (10 pages, 246954 bytes).
+Output written on document.pdf (10 pages, 247082 bytes).
 PDF statistics:
  479 PDF objects out of 1000 (max. 8388607)
  423 compressed objects within 5 object streams
