@@ -27,4 +27,4 @@
 кафедра физики наноразмерных систем
 
 # Screen
-!![alt text](https://github.com/golenischevms/Repository_beamerthemeSUSU_LaTeX/blob/main/screenshorts/title.png?raw=true)
+!![alt text]([https://github.com/golenischevms/Repository_beamerthemeSUSU_LaTeX/blob/main/screenshorts/title.png?raw=true](https://raw.githubusercontent.com/golenischevms/Repository_beamerthemeSUSU_LaTeX/main/screenshorts/title.png)https://raw.githubusercontent.com/golenischevms/Repository_beamerthemeSUSU_LaTeX/main/screenshorts/title.png)
