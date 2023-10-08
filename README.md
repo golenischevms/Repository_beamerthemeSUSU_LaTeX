@@ -8,6 +8,8 @@
 1)  "C:\texlive\2022\texmf-dist\tex\latex\beamer"
 2)  "C:\texlive\texmf-local\dvips\local"
 
+В папке с шаблоном можно генерировать *.pdf без установки темы.
+
 Если *.sty файл будет находиться в одной папке с Вашим *.tex файлов, LaTeX будет также его видеть.
 
 Находясь в папке textlive в поиске находим исполяемый файл texhash.exe и запускаем его. 
@@ -23,3 +25,6 @@
 
 Институт етественных и точных наук ЮУрГУ (НИУ),
 кафедра физики наноразмерных систем
+
+# Screen
+!![alt text](https://github.com/golenischevms/Repository_beamerthemeSUSU_LaTeX/blob/main/screenshorts/title.png?raw=true)
